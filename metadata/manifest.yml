@@ -11,8 +11,10 @@ Cartridge-Vendor: jelastic
 Source-Url: https://github.com/lguzzon/openshift-jelastic-orientdb/archive/master.zip
 Categories:
   - service
-  - database
+  - web_framework
+  - java
   - embedded
+  - jee_full_profile
 Website: http://www.orientechnologies.com
 Help-Topics:
   "Developer Center": http://jelastic.com
